@@ -23,7 +23,7 @@ Other notes
 * This is really nice data to use as a first try. Kudos to the teams putting this together
 
 Ten Years in Bakersfield
-About half of all the days in a year are “not good” and dozens of days each year that are some degree of “bad” (more WordPress readable ones coming)
+About half of all the days in a year are "not good" and dozens of days each year that are some degree of "bad"
 
 ![Ten years of air quality in Bakersfield, CA](aq01.png)
 
